@@ -1,5 +1,5 @@
---platform=linux/amd64 multiarch/qemu-user-static
 #支持私库
-waynezhang2022/doube-itv
+#waynezhang2022/doube-itv
 #支持指定架构
---platform=linux/amd64 xiaoyaliu/alist
+#--platform=linux/amd64 xiaoyaliu/alist
+--platform=linux/amd64 youshandefeiyang/allinone
